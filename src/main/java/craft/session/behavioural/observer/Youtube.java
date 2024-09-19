@@ -19,7 +19,7 @@ public class Youtube {
 		craft.subscribe(s5);
 		
 		
-		//craft.unSubscribe(s3);
+		craft.unSubscribe(s3);
 
 		s1.subscribeChannel(craft);
 		s2.subscribeChannel(craft);
